@@ -1,0 +1,13 @@
+C:\code\plugins\DemoPlugin\bin\Debug\DemoPlugin.deps.json
+C:\code\plugins\DemoPlugin\bin\Debug\DemoPlugin.dll
+C:\code\plugins\DemoPlugin\bin\Debug\DemoPlugin.pdb
+C:\code\plugins\DemoPlugin\obj\Debug\DemoPlugin.csproj.AssemblyReference.cache
+C:\code\plugins\DemoPlugin\obj\Debug\DemoPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\plugins\DemoPlugin\obj\Debug\DemoPlugin.AssemblyInfoInputs.cache
+C:\code\plugins\DemoPlugin\obj\Debug\DemoPlugin.AssemblyInfo.cs
+C:\code\plugins\DemoPlugin\obj\Debug\DemoPlugin.csproj.CoreCompileInputs.cache
+C:\code\plugins\DemoPlugin\obj\Debug\DemoPlugin.csproj.Up2Date
+C:\code\plugins\DemoPlugin\obj\Debug\DemoPlugin.dll
+C:\code\plugins\DemoPlugin\obj\Debug\refint\DemoPlugin.dll
+C:\code\plugins\DemoPlugin\obj\Debug\DemoPlugin.pdb
+C:\code\plugins\DemoPlugin\obj\Debug\ref\DemoPlugin.dll
