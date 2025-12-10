@@ -12,6 +12,7 @@ namespace Loupedeck.DemoPlugin
         public CounterCommand()
             : base(displayName: "Press Counter", description: "Counts button presses", groupName: "Commands")
         {
+            // test
         }
 
         // This method is called when the user executes the command.

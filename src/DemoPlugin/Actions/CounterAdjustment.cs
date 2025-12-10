@@ -19,6 +19,7 @@ namespace Loupedeck.DemoPlugin
         // This method is called when the adjustment is executed.
         protected override void ApplyAdjustment(String actionParameter, Int32 diff)
         {
+            
             this._counter += diff; // Increase or decrease the counter by the number of ticks.
             this.AdjustmentValueChanged(); // Notify the plugin service that the adjustment value has changed.
         }
