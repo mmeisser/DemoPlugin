@@ -20,7 +20,7 @@ namespace Loupedeck.DemoPlugin
         {
             this._counter++;
             this.ActionImageChanged(); // Notify the plugin service that the command display name and/or image has changed.
-            PluginLog.Info($"Counter value is {this._counter}"); // Write the current counter value to the log file.
+            //PluginLog.Info($"Counter value is {this._counter}"); // Write the current counter value to the log file.
         }
 
         // This method is called when Loupedeck needs to show the command on the console or the UI.
